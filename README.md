@@ -1,27 +1,40 @@
-# ThiagoAlexandre
-Olá 👋
-Sobre mim
+<br />
 
-[Coloque um GIF animado aqui - você pode usar um de: https://giphy.com]
+<h1>📝 About me</h1>
 
-Sou [Seu Nome], desenvolvedor/a apaixonado por tecnologia e inovação. Atualmente estou focado em [sua área: web, mobile, IA, etc] e sempre buscando aprender novas ferramentas e frameworks.
+<table> <tr> <td width="70%"> Meu nome é Thiago Alexandre, sou estudante de Sistemas de Informação e fascinado por tecnologia. Acredito que a tecnologia é chave para transformar o mundo e torná-lo cada vez melhor.
+Sou adepto por automação de processos de negócios, gestão empresarial, Inteligência Artificial, integração com ferramentas Low-Code e qualidade em UX/UI.
+Acredito que o uso dessas ferramentas contribuem para a criação de novas soluções mais eficientes, além de possibilitar a otimização de processos já existentes.
+Procuro estar sempre em busca de novos conhecimentos e habilidades, me reinventando constantemente para acompanhar as transformações e as novas oportunidades do mercado tecnológico.
 
-🎓 Formação: [Seu curso/universidade]
-💼 Experiência: [Resumo breve do que você faz]
-🎯 Objetivos: [O que você quer alcançar]
-🌱 Aprendendo: [Tecnologias que está estudando]
-🛠️ Tecnologias
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> </div>
+</td> <td width="30%" align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ3YXdma3VtZHFld2V0c28wMTg5Zmx1aTkxeDY5Nm9oNTV6c3R5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1KllEBZdsLBwt3sDMG/giphy.gif" width="150" alt="Developer"> </td> </tr> </table>
 
-Dica: Remova os ícones que não usa. Todos os ícones estão em: https://devicons.github.io/
+<hr>
 
-📱 Redes Sociais
+<h1>💻 Techs</h1>
 
-Vamos nos conectar! Você pode me encontrar em:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
 
-LinkedIn Instagram Email Portfólio
+<hr>
 
-📊 Estatísticas
-Aqui você pode adicionar badges e gráficos no futuro!
-Por enquanto, foque em preencher os dados acima.
-<div align="center"> <p><strong>Obrigado por visitar meu perfil! 🚀</strong></p> </div>
+<h1>🎯 Áreas de Interesse</h1>
+
+🤖 Inteligência Artificial
+
+🔧 Automação de Processos
+
+📊 Gestão Empresarial
+
+🚀 Ferramentas Low-Code
+
+🎨 Design UX/UI
+
+<hr>
+
+<h1>🌐 Conecte-se Comigo</h1>
+
+<a href="COLOQUE_AQUI_SEU_LINKEDIN"> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/> </a>
+
+<a href="COLOQUE_AQUI_SEU_INSTAGRAM"> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/> </a>
