@@ -19,15 +19,15 @@ Procuro estar sempre em busca de novos conhecimentos e habilidades, me reinventa
 
 <h1>🎯 Áreas de Interesse</h1>
 
-🤖 Inteligência Artificial
+🤖 Inteligência Artificial - Exploração de modelos e aplicações práticas
 
-🔧 Automação de Processos
+🔧 Automação de Processos - Criação de fluxos mais eficientes e automatizados
 
-📊 Gestão Empresarial
+📊 Gestão Empresarial - Otimização de processos e eficiência operacional
 
-🚀 Ferramentas Low-Code
+🚀 Ferramentas Low-Code - Desenvolvimento integração de soluções
 
-🎨 Design UX/UI
+🎨 Design UX/UI - Experiência do usuário de qualidade
 
 <hr>
 
