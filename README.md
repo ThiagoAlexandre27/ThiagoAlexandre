@@ -33,8 +33,10 @@ Procuro estar sempre em busca de novos conhecimentos e habilidades, me reinventa
 
 <h1>🌐 Conecte-se Comigo</h1>
 
-<a href="COLOQUE_AQUI_SEU_LINKEDIN"> <img 
+<a href="linkedin.com/in/thiago-alexandre-0178871a9"> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/> </a>
 
-<a href="COLOQUE_AQUI_SEU_INSTAGRAM"> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/> </a>
+<a href="https://www.instagram.com/lelis__thiago?stkn=MWNwN3h6YTkycHBzYQ==">
+  <img src="https://cdn.simpleicons.org/instagram" height="40" alt="Instagram"/>
+</a>
+
